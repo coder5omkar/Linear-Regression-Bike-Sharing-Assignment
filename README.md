@@ -53,4 +53,4 @@ Created by [@in/omkaramale](https://github.com/coder5om) - feel free to contact 
 
 Developed as part of the ML-1 Module assignment required for Post Graduate Diploma in Machine Learning and AI - IIIT,Bangalore.
 
-This project is open source and available under the [MIT License](https://github.com/coder5om/LendingClubCaseStudy/blob/main/licence.txt).
+This project is open source and available under the [MIT License](https://github.com/coder5omkar/Linear-Regression-Bike-Sharing-Assignment/blob/main/licence.txt).
