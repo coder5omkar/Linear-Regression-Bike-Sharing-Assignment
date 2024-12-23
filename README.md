@@ -49,7 +49,7 @@ will serve as a valuable tool to anticipate demand and improve service delivery.
 - This project was inspired by IIT-B AI-ML program at Upgrad
 
 ## Contact
-Created by [@in/omkaramale](https://github.com/coder5om) - feel free to contact me!
+Created by [@in/omkaramale](https://github.com/coder5omkar) - feel free to contact me!
 
 Developed as part of the ML-1 Module assignment required for Post Graduate Diploma in Machine Learning and AI - IIIT,Bangalore.
 
